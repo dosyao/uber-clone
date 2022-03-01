@@ -24,7 +24,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "versionCode": 1
+      "versionCode": 1,
+      "package": "com.dosyao.uberclone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
